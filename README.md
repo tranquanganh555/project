@@ -22,3 +22,4 @@ B5: Chọn loại repository của bạn. Bạn có thể chọn giữa “Publi
 B6: Nhấn Add a README file.
 
 B7: Nhấp “Create repository”.
+[[]]
